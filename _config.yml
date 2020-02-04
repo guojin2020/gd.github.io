@@ -17,8 +17,10 @@ defaults:
 title: Minimalism
 name: minimalism
 description: Minimalism is a jekyll theme for minimalist
+url: https://guojin2020.github.io/gdlife/
+copyright_time: 2020
 
-github: https://github.com/showzeng/Minimalism
+github: https://github.com/guojin2020/gdlife
 rss: true
 
 plugins:
